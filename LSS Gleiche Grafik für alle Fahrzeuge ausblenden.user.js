@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LSS Gleiche Grafik für alle Fahrzeuge ausblenden
-// @namespace    http://tampermonkey.net/
+// @namespace    www.leitstellenspiel.de
 // @version      1.0
 // @description  Blendet die Checkbox um Grafik für alle Fahrzeuge dieses Typs zu setzen aus
 // @author       MissSobol
